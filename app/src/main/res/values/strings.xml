@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Simple Note-10120168</string>
+    <string name="data_diri">NIM: 10120168\nNama: Muhammad Jauzi\nKelas: IF5\nEmail: jauzi.10120168.@mahasiswa.unikom.ac.id</string>
+    <string name="pembuka"> Simply Note merupakan sebuah aplikasi android sederhana yang bisa mencatat sebuah memo dengan menggunakan MVP pattern konsep. </string>
+
+    <string name="menu_home">• Pada halaman Home Pengguna dapat menambahkan catatan dengan menekan tombol tambah (+) pada pojok kanan bawah, dan mulai mengisikan judul serta isi catatan, lalu klik tombol save. Setelah itu akan terlihat daftar catatan yang telah ditambahkan. Pilih salah satu catatan untuk melakukan aksi Ubah atau Hapus catatan.</string>
+    <string name="menu_profile">•Pada menu ini terdapat informasi mengenai data diri pengembang</string>
+    <string name="menu_info">• terdapat informasi mengenai aplikasi catatan ini.</string>
+    <string name="copyright">©10120168 | Muhammad Jauzi</string>
+
+    <string name="judul">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="isi">Mulai Menulis</string>
+
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">Say hi to your first memo</string>
+    <string name="penjelasan">  First, go to the Notes tab and click + to start writing your diary</string>
+    <string name="txt_tambahNote">Tambah Memo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
